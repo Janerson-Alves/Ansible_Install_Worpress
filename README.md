@@ -1,5 +1,7 @@
 Documentacao Ansible
 - https://docs.ansible.com/ansible/latest/collections/community/
+
+
 Passo a Passo Instalação Worpress 
 - https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview
 
