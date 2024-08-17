@@ -1,0 +1,5 @@
+[wordpress]
+IP_MAQUINA_WORDPRESS ansible_user=alura ansible_ssh_private_key_file='/home/alura/ansible/delta1'
+
+[mysql]
+IP_MAQUINA_MYSQL ansible_user=alura ansible_ssh_private_key_file='/home/alura/ansible/deltadb'

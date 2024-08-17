@@ -1,0 +1,3 @@
+---
+db_ip: "IP_MAQUINA_MYSQL"
+wp_dir: "/srv/www/wordpress"

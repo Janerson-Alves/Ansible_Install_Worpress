@@ -1,0 +1,12 @@
+---
+#Aplicação Wordpress
+- hosts: wordpress
+  roles:
+  - wordpress
+
+#Aplicação mysql
+- hosts: mysql
+  roles:
+  - mysql
+
+        
