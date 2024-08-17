@@ -10,6 +10,6 @@ https://api.wordpress.org/secret-key/1.1/salt/
 
 
 Você pode executar as tarefas do Ansible do playbook "provisioning.yml"
-    ansible-playbook provisioning.yml -i hosts -K
+    - ansible-playbook provisioning.yml -i hosts -K
 
 inserir a senha do sudo.
